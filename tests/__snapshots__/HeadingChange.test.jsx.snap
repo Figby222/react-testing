@@ -1,0 +1,14 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HeaderChange component > renders I like cookies 1`] = `
+<div>
+  <button
+    type="button"
+  >
+    Change heading text
+  </button>
+  <h1>
+    I like cookies
+  </h1>
+</div>
+`;
