@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import userEvent from "@testing-library/user-event";
-import HeadingChange from "../src/HeadingChange.jsx";
+import HeadingChange from "../src/components/HeadingChange.jsx";
 
 describe("HeaderChange component", () => {
     it('renders I like cookies', () => {
